@@ -27,11 +27,15 @@
 .itens-center {
     align-items: center;
 }
+
+.margin-top{
+    margin-top: 5rem;
+}
 .gap-1 {
     gap: 1rem;
 }
 
-.gap-1-5 {
+.gap-1\.5 {
     gap: 1.5rem;
 }
 

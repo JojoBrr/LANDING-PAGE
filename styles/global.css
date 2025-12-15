@@ -36,8 +36,8 @@
 
     --py-base: 1rem;
     --py-lg: 1.5rem;
-    --px-xl: 3rem;
-
+    --py-xl: 3rem;
+    
     --px-lg: 1.5rem;
 
 } 
@@ -99,7 +99,7 @@ ul[role="list"]{
         
         --py-base: 1.5rem;
         --py-lg: 2.5rem;
-        --px-xl: 5rem;
+        --py-xl: 5rem;
         --px-lg: 2rem;
     }
 }
