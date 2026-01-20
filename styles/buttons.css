@@ -35,10 +35,12 @@ color: var(--btn-color);
     padding: .5rem 1rem;
     font-size: var(--fs-sm);
 }
+
 .btn-md {
     padding: .75rem 1.5rem;
     font-size: var(--fs-base);
 }
+
 .btn-lg {
     padding: 1rem 2rem;
     font-size: 1.125rem;
@@ -51,7 +53,7 @@ color: var(--btn-color);
         content:"";
         position: absolute;
         border-radius: inherit;
-        inset: 1.5px;
+        inset: 1px;
         background-color: var(--bg-color);
     }
 
